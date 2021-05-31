@@ -5,6 +5,7 @@
 * [Technologies](#technologies)
 * [Pre-requisites](#pre-requisites)
 * [Setup](#setup)
+* [Demo](#demo)
 
 ## General info
 This project is simple phonebook web which allows user to add, delete, edit contacts.
@@ -28,7 +29,7 @@ Terminal 1
 ```
 $ cd PhoneBook
 $ npm install
-$ npm server
+$ npm run server
 ```
 Terminal 2
 ```
@@ -36,4 +37,6 @@ $ cd client
 $ npm install
 $ npm start
 ```
+## Demo
+
 
