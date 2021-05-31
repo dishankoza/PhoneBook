@@ -1,6 +1,6 @@
 # PhoneBook
 
-##Table of contents
+## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Pre-requisites](#pre-requisites)
