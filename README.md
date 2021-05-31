@@ -33,19 +33,20 @@ $ npm run server
 ```
 Terminal 2
 ```
+$ cd PhoneBook
 $ cd client
 $ npm install
 $ npm start
 ```
 ## Demo
-Sign Up Page
+**Sign Up Page
 ![sign-up](./images/signup-page.png)
 
-Login Page
+**Login Page
 ![login](./images/login-page.png)
 
-Contacts Page(here you can add, edit and delete your contacts)
+**Contacts Page(here you can add, edit and delete your contacts)
 ![contacts](./images/contacts-page.png)
 
-View Contact Page
+**View Contact Page
 ![contact](./images/view-contact-page.png)
